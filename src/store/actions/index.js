@@ -1,0 +1,3 @@
+export {   
+    fetchPage
+} from './data';

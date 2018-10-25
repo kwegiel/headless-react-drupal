@@ -1,0 +1,12 @@
+.portfolio-item--tag {
+    color: grey;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+    margin: 0 0 20px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.portfolio-item--tag:hover {
+    opacity: 0.5;
+}
