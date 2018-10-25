@@ -1,8 +1,8 @@
-React JS portfolio block<br>
+Simple example of headless drupal 8 front-end with react js + redux<br>
 - npm install
 - npm start
 - npm run build
-- npm run build-fix
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
